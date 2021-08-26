@@ -12,4 +12,6 @@
     <string name="name">Name</string>
     <string name="enter_the_name">Enter the name</string>
     <string name="create_birthday_card">Create Birthday Card</string>
+    <string name="happy_birthday">Happy birthday</string>
+    <string name="todo">TODO</string>
 </resources>
